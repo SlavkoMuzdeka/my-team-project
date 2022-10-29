@@ -1,4 +1,4 @@
 linija
-nova linija
+nova linija linija na master
 jos jedna linija
 joj jos jedna linija
