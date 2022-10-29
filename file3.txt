@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 linija
 nova linija linija na master
 jos jedna linija
 joj jos jedna linija
+=======
+linija izmjena
+nova linija
+jos jedna linija
+>>>>>>> feauture/second
