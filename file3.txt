@@ -3,3 +3,5 @@ nova linija linija na master
 linija izmjena
 nova linija
 linija napisana na grani feature/fourth test linija
+linija napisana na grani feature/
+
