@@ -1,15 +1,5 @@
-<<<<<<< HEAD
 linija
-<<<<<<< HEAD
 nova linija linija na master
-jos jedna linija
-joj jos jedna linija
-=======
 linija izmjena
 nova linija
-jos jedna linija
->>>>>>> feauture/second
-=======
-nova linija kreiranje merge konflikta
-jos jedna linija
->>>>>>> feature/third
+linija napisana na grani feature/fourth
